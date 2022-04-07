@@ -15,7 +15,7 @@ Taller de pruebas unitarias UNAC
 3.  Run the tests with the next command:
 
     >
-        nmp test
+        npm test
 
 
 ---
