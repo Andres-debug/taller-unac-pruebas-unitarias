@@ -6,4 +6,3 @@ export function sum(arr: number[]): number {
     return result;
 }
 
-//Codigo fuente tomado de https://www.analyticslane.com/2020/12/02/estructurar-el-proyecto-typescript-y-pruebas-unitarias-3o-parte-creacion-de-una-libreria-typescript/
